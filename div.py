@@ -59,7 +59,6 @@ if len(sys.argv)<4:
 else:
     pagina_fine = int(sys.argv[3])
 
-print(len(sys.argv))
 if len(sys.argv)==5:    
     nome_file = sys.argv[4]
 else:
